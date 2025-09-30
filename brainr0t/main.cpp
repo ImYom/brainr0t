@@ -1,4 +1,7 @@
-﻿#define WIN32_LEAN_AND_MEAN
+﻿// Author: Tommy Dewey 
+// tpd2144@g.rit.edu
+
+#define WIN32_LEAN_AND_MEAN
 #define OEMRESOURCE
 #include <windows.h>
 #include <string>
